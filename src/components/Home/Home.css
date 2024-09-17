@@ -1,0 +1,174 @@
+
+.Move{
+
+    margin-top: 120px;
+    position: absolute;
+    margin-left: 550px;
+    font-size: 50px;
+    }
+.Move1{
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 600px;
+    font-size: 50px;
+    
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    position: absolute;
+    margin-top: 270px;
+}
+.Para1{
+    margin-left: 420px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.Para2{
+    margin-left: 770px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.Plan{
+    margin-top: 340px;
+    margin-right: 100px;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    font-size: large;
+}
+.Plan:hover{
+    background-color: lightskyblue;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.Box{
+    margin-right: 120px;
+    font-size: large;
+    
+}
+.Clr{
+    background-color: lightgray;
+}
+.Cool{
+    background-color: lightgray;
+    height: 40px;
+}
+.Two:hover{
+    background-color: rgba(239, 79, 79, 0.715);
+}
+.Main-img{
+    width: 100%;
+   
+}
+.What{
+   text-size-adjust: 50px;
+}
+.Main-box{
+    height: 500px;
+    width: 350px;
+    border: solid;
+    background-color: rgb(54, 136, 231);
+    color: whitesmoke;
+}
+.First{
+    mix-blend-mode: multiply;
+    padding: 10px;
+    
+}
+.Card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Small{
+   
+    padding: 10px;
+    
+    color: black;
+}
+.Small2{
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+.Pa1{
+    color: rgb(54, 95, 173);
+    padding: 30px;
+}
+    
+
+.Pa2{
+    color: white;
+}
+.Big{
+    background-color: black;
+}
+.Sm{
+    width: 600px;
+    height: 500px;
+    padding: 40px;
+   
+}
+.Bi{
+    background-color: black;
+}
+.Boxx{
+    width: 600px;
+    height: 400px;
+    border: solid;
+    background-color: black;
+}
+.Le{
+    width: 600px;
+    height: 250px;
+}
+.Ni{
+    color: white;
+}
+.Mal{
+    color: white;
+}
+.Fl{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: black;
+    padding: 30px;
+    
+}
+.Ad{
+    background-color: black;
+    color: rgb(63, 70, 202);
+}
+.Co{
+    color: white;
+    background-color: black;
+}
+.C1{
+    color: rgb(24, 131, 167);
+}
+.C2{
+    color: white;
+}
+.C3{
+    color: white;
+}
+.Cont{
+    background-color: black;
+    width: 450px;
+    height: 200px;
+    border: none;
+}
+.Flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: black;
+    padding: 50px;
+}

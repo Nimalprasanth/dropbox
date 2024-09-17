@@ -1,0 +1,36 @@
+.O{
+    width: 30px;
+    border-radius: 50%;
+    
+}
+.O:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+    box-shadow: 0 5px 30px darkblue;
+    
+}
+.Footer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+    padding: 20px;
+}
+.Menuitem{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 55px;
+    font-size: 20px;
+}
+.Foo{
+    font-weight: 700;
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: rgb(41, 168, 215);
+}
+.Footermain{
+    background-color: rgb(34, 136, 170);
+    
+}
